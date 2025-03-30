@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gituserchan&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gituserchan&layout=compact&theme=tokyonight)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/gituserchan)
+![followers](https://img.shields.io/github/followers/gituserchan?style=social)
+<img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="400"/>
