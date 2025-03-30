@@ -29,4 +29,3 @@ I value clean architecture, collaboration, and continuous learning.
 
 ## 🔗 Connect
 [![Gmail Badge](https://img.shields.io/badge/email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pcj4142@naver.com)
-[![LinkedIn Badge](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
