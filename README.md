@@ -1,15 +1,23 @@
+<div align="center">
+  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" width="600"/>
+</div>
+
+---
+
 # 👋 Hello, I'm gituserchan
 
-I'm a passionate developer focused on building impactful, efficient, and user-friendly software.  
-Currently exploring Unity and game development.
+I'm a computer science student aspiring to become a backend developer.  
+My main focus is on building efficient, scalable server-side systems using Java and Spring.  
+I value clean architecture, collaboration, and continuous learning.
 
 ---
 
 ## 🛠 Tech Stack
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
 ---
@@ -20,7 +28,5 @@ Currently exploring Unity and game development.
 ---
 
 ## 🔗 Connect
-[![Gmail Badge](https://img.shields.io/badge/email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![Gmail Badge](https://img.shields.io/badge/email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pcj4142@naver.com)
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-
----
